@@ -1,0 +1,74 @@
+
+.row{
+  margin-top: 2.5rem;
+  display: flex;
+  justify-content: center;
+  
+}
+
+label{
+  font-size: 2rem;
+  margin-right:0.5rem;
+  font-weight: bold;
+}
+
+#btn{
+  font-size: 1rem;
+  border-radius: 0.4rem;
+  background-color: cornflowerblue;
+  cursor: pointer;
+  margin-left: 0.2rem;
+  padding: 0.5rem;
+  
+}
+
+
+div.card{
+  text-align: center;
+  height:100%;
+  width: 15%;
+  margin: 1rem;
+  border: 1px solid #EDCDBB;
+  border-radius: 10px;
+}
+div.footer{
+  border-top: 1px solid #BF9270;
+  height: 2rem;
+  padding: 0.2rem;
+  font-weight: 900;
+  
+  
+  
+}
+div.header{
+  font-size: 25px;
+  font-weight:900;
+  color: rgba(184, 21, 48, 0.952);
+  border-bottom: 1px solid #19282F;
+}
+i.far{
+  float: right;
+  cursor: pointer;
+  padding-top: 0.5rem;
+  color: rgb(29, 52, 153);
+  
+}
+
+span{
+  float: left;
+  padding-top: 0.5rem;
+  color: rgb(29, 52, 153);
+}
+div#add{
+margin-top: 2rem;
+display: flex;
+justify-content: flex-start;
+flex-wrap: wrap;
+margin-left: 4rem;
+}
+body p {
+  font-family:'Courier New', monospace;
+  font-size:medium;
+  font-weight: 550;
+  color: #0c0d0e;
+}
